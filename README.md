@@ -18,8 +18,8 @@ O desafio consistiu em criar uma API Rest que simula um fórum, permitindo aos u
 - Token JWT
 
 ## :clipboard: Documentação
-Swagger UI: disponível documentação da aplicação em http://localhost:8080/swagger-ui/index.html#/
-Trello: disponível explicação das funcionalidades da aplicação em https://trello.com/b/dIiESOUz/challenge-forumhub-one-t6
+- Swagger UI: disponível documentação da aplicação em http://localhost:8080/swagger-ui/index.html#/
+- Trello: disponível explicação das funcionalidades da aplicação em https://trello.com/b/dIiESOUz/challenge-forumhub-one-t6
 
 ## Licença
 Projeto desenvolvido por [Thaís Pereira](https://github.com/ThaisSilva).
