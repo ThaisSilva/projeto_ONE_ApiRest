@@ -1,4 +1,4 @@
-### Projeto desenvolvivo para o Chanllenge Fórum Hub do curso ONE - T6 da Oracle e da Alura
+# Projeto desenvolvido para o Chanllenge Fórum Hub do curso ONE - T6 da Oracle e da Alura
 
 O desafio consistiu em criar uma API Rest que simula um fórum, permitindo aos usuários criar, comentar, atualizar e deletar tópicos. 
 
@@ -17,6 +17,9 @@ O desafio consistiu em criar uma API Rest que simula um fórum, permitindo aos u
 - Lombok
 - Token JWT
 
-## Documentação
+## :clipboard: Documentação
+Swagger UI: disponível documentação da aplicação em http://localhost:8080/swagger-ui/index.html#/
+Trello: disponível explicação das funcionalidades da aplicação em https://trello.com/b/dIiESOUz/challenge-forumhub-one-t6
 
 ## Licença
+Projeto desenvolvido por [Thaís Pereira] (https://github.com/ThaisSilva).
