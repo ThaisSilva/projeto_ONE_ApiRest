@@ -22,4 +22,4 @@ Swagger UI: disponível documentação da aplicação em http://localhost:8080/s
 Trello: disponível explicação das funcionalidades da aplicação em https://trello.com/b/dIiESOUz/challenge-forumhub-one-t6
 
 ## Licença
-Projeto desenvolvido por [Thaís Pereira] (https://github.com/ThaisSilva).
+Projeto desenvolvido por [Thaís Pereira](https://github.com/ThaisSilva).
