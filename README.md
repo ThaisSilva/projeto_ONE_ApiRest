@@ -1,4 +1,4 @@
-# Projeto desenvolvido para o Chanllenge Fórum Hub do curso ONE - T6 da Oracle e da Alura
+# Projeto desenvolvido para o Challenge Fórum Hub do curso ONE - T6 da Oracle e da Alura
 
 O desafio consistiu em criar uma API Rest que simula um fórum, permitindo aos usuários criar, comentar, atualizar, pesquisar, listar e deletar tópicos. 
 
